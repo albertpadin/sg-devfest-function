@@ -7,5 +7,5 @@
  *                     More info: https://expressjs.com/en/api.html#res
  */
 exports.helloGDGSG = (req, res) => {
-  res.send(`Hello GDG Singapore!!!!`);
+  res.send(`Hello GDG Singapore!!!! \\o/`);
 };
